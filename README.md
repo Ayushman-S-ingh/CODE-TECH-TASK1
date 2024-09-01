@@ -46,19 +46,7 @@ This dataset contains information about passengers on the Titanic, such as their
    - **Age vs. Fare**: A scatter plot is generated to show the relationship between age and fare, colored by survival status.
    - **Correlation Heatmap**: A heatmap is created to visualize the correlation between different numerical features in the dataset.
 
-## Visualization Examples
 
-### Age Distribution
-![Age Distribution](path_to_image/age_distribution.png)
-
-### Survival Counts
-![Survival Counts](path_to_image/survival_counts.png)
-
-### Age vs. Fare (Colored by Survival)
-![Age vs. Fare](path_to_image/age_vs_fare.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](path_to_image/correlation_heatmap.png)
 
 ## How to Run the Code
 
