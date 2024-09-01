@@ -71,9 +71,7 @@ This dataset contains information about passengers on the Titanic, such as their
 
 This project demonstrates how to perform a simple exploratory data analysis using Python. The visualizations provide insights into the distribution of ages, survival rates, and the relationship between different features.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
